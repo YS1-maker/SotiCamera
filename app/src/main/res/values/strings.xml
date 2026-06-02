@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SotiCamera</string>
+    <string name="captured_photo">Captured photo</string>
+    <string name="caption_message">THEFT ALERT Smile! Your photo has been sent to the police… and your mum.</string>
+</resources>
